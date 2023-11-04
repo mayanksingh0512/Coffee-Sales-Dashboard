@@ -1,1 +1,1 @@
-# Coffee-Sales-Dashboard
+Developed an interactive coffee sales dashboard featuring a line chart displaying total sales, bar charts for country sales and top customers, a timeline, and slicers for filtering by roast type, size, and loyalty card status. Leveraged pivot tables and pivot charts for dynamic visualization of sales data. Integrated data gathering techniques using XLOOKUP and INDEX MATCH for comprehensive data retrieval and analysis.
